@@ -3,7 +3,7 @@ en:
     today: Today
     tomorrow: Tomorrow
     in_2_days: In 2 days
-    next_workday: Next workday
+    next_week: Next week
     in_7_days: In 7 days
     in_14_days: In 14 days
     in_30_days: In 30 days
@@ -12,7 +12,7 @@ en:
     today: Today
     tomorrow: Tomorrow
     in_2_days: In 2 days
-    next_workday: Next workday
+    next_week: Next week
     in_7_days: In 7 days
     in_14_days: In 14 days
     in_30_days: In 30 days
